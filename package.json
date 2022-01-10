@@ -1,0 +1,26 @@
+{
+  "name": "wad2lab3a",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FionaMacRaeFairlie/WAD2Lab3a.git"
+  },
+  "author": "Fiona Fairlie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FionaMacRaeFairlie/WAD2Lab3a/issues"
+  },
+  "homepage": "https://github.com/FionaMacRaeFairlie/WAD2Lab3a#readme",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "express": "^4.17.2",
+    "express-rate-limit": "^6.0.5",
+    "helmet": "^5.0.1",
+    "sqlite3": "^5.0.2"
+  }
+}
